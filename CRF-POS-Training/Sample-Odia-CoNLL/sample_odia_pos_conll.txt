@@ -1,0 +1,15 @@
+ଗନ୍ଧିପୋକ	N_NN
+-	RD_SYM
+ଏହା	PR_PRP
+ଏକ	QT_QTC
+ଶୋଷକ	JJ
+କୀଟ	N_NN
+।	RD_PUNC
+
+ଏମାନଙ୍କର	PR_PRP
+ବିଭିନ୍ନ	JJ
+ଜାତି	N_NN
+ଅଛି	V_VM_VF
+।	RD_PUNC
+
+

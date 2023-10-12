@@ -1,0 +1,17 @@
+<Sentence id='1'>
+1	ଗନ୍ଧିପୋକ	N_NN	
+2	-	SYM	
+3	ଏହା	PR_PRP	
+4	ଏକ	QT_QTC	
+5	ଶୋଷକ	JJ	
+6	କୀଟ	N_NN	
+7	।	RD_PUNC
+</Sentence>
+
+<Sentence id='2'>
+1	ଏମାନଙ୍କର	PR_PRP	
+2	ବିଭିନ୍ନ	JJ	
+3	ଜାତି	N_NN	
+4	ଅଛି	V_VM_VF	
+5	।	RD_PUNC
+</Sentence>
